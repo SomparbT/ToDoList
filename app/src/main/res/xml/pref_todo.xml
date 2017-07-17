@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Preference for visibility setting of task -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_very_high"
+        android:summaryOff="Hidden"
+        android:summaryOn="Shown"
+        android:title="Show Priority Very High" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_high"
+        android:summaryOff="Hidden"
+        android:summaryOn="Shown"
+        android:title="Show Priority High" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_medium"
+        android:summaryOff="Hidden"
+        android:summaryOn="Shown"
+        android:title="Show Priority Medium" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_low"
+        android:summaryOff="Hidden"
+        android:summaryOn="Shown"
+        android:title="Show Priority Low" />
+
+</PreferenceScreen>

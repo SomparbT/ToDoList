@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- colors for task priority selection -->
+    <color name="taskVeryHigh">#E74C3C</color>
+    <color name="taskHigh">#E67E22</color>
+    <color name="taskMedium">#F1C40F</color>
+    <color name="taskLow">#6a998f</color>
+    <color name="taskDone">#C5CAE9</color>
+</resources>
